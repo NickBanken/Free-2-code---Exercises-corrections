@@ -10,7 +10,7 @@ A project where we train inmates on the basics of web development! If they like 
 ---
 
 We need your help; we have created some basic HTML and CSS exercises, but also need to provide the solutions to these exercises.   
-Now if one person did this, it could get boring easily. But if a group of people did this. We could do it in no time!   
+Now if one person did this, it could become a boring task. But if a group of people did this. We could do it in no time!   
 
 ## Are you up for this task? 
 
@@ -21,9 +21,9 @@ Your job is to create this file and complete the exercise in the best practice t
 
 ## before you start
 
-Come to me and I will assign you as a collaborator to this repository. 
-After this fork the repository. When you own a forked version, you come to me and ask me for an exercise, I will assign you to one. 
-When you finished, make a pull request. I will quickly check the result and accept. 
+Come to me and I will assign you as a collaborator to this repository.   
+After this fork the repository. When you own a forked version, you come to me and ask me for an exercise, I will assign you to one.    
+When you finished, make a pull request. I will quickly check the result and accept.   
 If you feel up for another exercise, we repeat this process. Except from forking the repository! 
 
 ![](https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif)
