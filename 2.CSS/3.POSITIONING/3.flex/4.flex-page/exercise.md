@@ -11,15 +11,13 @@ Does his name not ring a bell? Don't worry, You will get to know him during this
 
 Recreate the following structure in HTML:
 
-
-
-![resources/images/html-example.png](resources\images\html-example.png)
+![example](resources/images/html-example.png)
 
 ## Flex those containers!
 
 Great work! Now style this page into this:
 
-![endgoal.png]resources\images\endgoal.png)
+![endgoal.png](resources/images/endgoal.png)
 
 
 
