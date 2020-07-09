@@ -13,7 +13,7 @@ Recreate the following structure in HTML:
 
 
 
-![html-example.png](resources\images\html-example.png)
+![resources/images/html-example.png](resources\images\html-example.png)
 
 ## Flex those containers!
 
