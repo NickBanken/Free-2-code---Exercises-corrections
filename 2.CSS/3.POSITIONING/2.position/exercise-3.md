@@ -51,4 +51,4 @@ Now re-create this styling as good as possible:
 
 *Don't forget to use display! (Sometimes even on parents...)*
 
-![squares.png](..\..\resources\images\squares.png)
+![squares.png](..\resources\images\squares.png)
