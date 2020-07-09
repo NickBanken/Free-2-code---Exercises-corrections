@@ -14,10 +14,10 @@ Now if one person did this, it could become a boring task. But if a group of peo
 
 ## Are you up for this task? 
 
-Great! Inside these 2 folders, you will find more folders, each of these folders are chapters.   
-Inside of each chapter, there are more folders which contain the exercises. These exercises need to get a correction.html file.   
+Great! Inside these 2 folders, you will find the exercise folders, inside of this folder there are sub-chapters.   
+Inside of each chapter, there are more folders which contain the exercises. These exercises need to get a correction.html or/and correction.css file.   
 
-Your job is to create this file and complete the exercise in the best practice that you know.   
+Your job is to create these file and complete the exercise in the best practice that you know.   
 
 ## before you start
 
