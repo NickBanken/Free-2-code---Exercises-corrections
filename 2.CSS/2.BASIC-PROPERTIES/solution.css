@@ -93,9 +93,10 @@
   
 }
 
-.content ul,.content ul:last-of-type a:visited,.content ul:last-of-type a:link,.content ul a:last-of-type a:active{
-    list-style: none;
-    text-decoration: none;
+
+.content ul:last-of-type,.content ul:last-of-type a:visited,.content ul:last-of-type a:link,.content ul a:last-of-type a:active{
+	list-style: none;
+	text-decoration: none;
     color:white;
 }
 

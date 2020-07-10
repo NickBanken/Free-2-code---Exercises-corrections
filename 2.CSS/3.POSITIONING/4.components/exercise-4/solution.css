@@ -1,0 +1,54 @@
+
+
+.advert{
+	display: flex;
+	justify-content: center;
+	/*Learner can */
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+	/*Optional*/
+	margin: 200px 0;
+}
+
+.advert__card{
+	margin: 0 25px;
+	width: 200px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.advert__imgHolder{
+	width: 120px;
+	height: 120px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+
+.advert__img{
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.bigger{
+	max-width: 135%;
+	max-height: 135%;
+}
+
+.advert__desc h3{
+	color:#92C9A5;
+	font-weight: 100;
+}
+
+.advert__desc p{
+	color: grey;
+	font-size: 14px;
+}
+
+strong{
+	font-weight: normal;
+	color: rgb(107, 107, 107);
+	font-size: 15px;
+}
