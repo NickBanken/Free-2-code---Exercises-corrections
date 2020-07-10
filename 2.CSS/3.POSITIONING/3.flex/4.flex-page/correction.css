@@ -1,0 +1,81 @@
+body{
+  background-color: gray;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: gray;
+}
+#info{
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px 20px 5px 20px;
+  text-align: center;
+  height: 500px;
+  width: 500px;
+  margin: 0 auto;
+}
+#info p{
+  text-align: justify;
+  line-height: 27px;
+}
+#info h1{
+  color: #FF4040;
+}
+#info img{
+  border-radius: 50%;
+  margin: 0 auto;
+  border: 2px solid gray;
+  height: 100px;
+  display: block;
+}
+#info a{
+  display: block;
+  background-color: #FF4040;
+  border-radius: 5px;
+  width: 150px;
+  line-height: 50px;
+  text-align: center;
+  color:white;
+  text-decoration:none;
+  margin: 0 auto;
+}
+#socialMedia{
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+  width: 500px;
+  height: 100px;
+  margin-bottom: 50px;
+  margin: 0 auto;
+}
+#socialMedia img{
+  height: 20px;
+  width: 20px;
+}
+#socialMedia a{
+  text-decoration: none;
+  text-align: center;
+  color: gray;
+  margin-left: 40px;
+  height: 40px;
+  width: 60px;
+  float: left;
+  padding: 20px;
+  display: block;
+}
+#movies{
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+  padding: 20px;
+  width: 500px;
+  margin: 0 auto;
+}
+#movies img{
+  float: left;
+  height: 200px;
+  margin-right: 10px;
+}
+#movies p{
+  text-align: justify;
+  height: 200px;
+  line-height: 27px;
+}
