@@ -16,7 +16,7 @@
 
 - Add the attribute `Alt` to the images. What is the purpose of this attribute?
 
-- Add a "*good*" or "*bad*" class to the tags surrounding the words "Good" and "Bad".
+- Add a "_good_" or "_bad_" class to the tags surrounding the words "Good" and "Bad".
 
 - Find the link attribute to indicate the page to which the link should lead, and add it.
 
@@ -24,10 +24,7 @@
 
 - Find the attribute to display a small text box when hovering over links, like this:
 
-
-
-![](/home/nick/Documents/BeCode/prison-project/free2code/1.HTML/exercises/Semantics/exercise-3-chinese-farmer/resources/altatr.jpeg)
-
+![](./resources/altatr.jpeg)
 
 ## Done?
 
