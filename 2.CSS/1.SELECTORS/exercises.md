@@ -20,24 +20,12 @@ Here is the result you should try to reach (or as close as possible).
 <h2>Brands</h2>
 <ol>  
 <li><span class="toyota">Toyota</span></li>
-<li><span>Toyota</span></li>
 <li>FedEx Express</li>
+<li><span>facebook</span></li>
 </ol>
 </body>
 ```
 
-**Solution (html)**
-
-```html
-<body>
-<h2>Brands</h2>
-<ol>  
-<li><span class="toyota">Toyota</span></li>
-<li><span class="facebook">Toyota</span></li>
-<li><span class="fedex"><span class="fed">Fed</span><span class="ex">Ex</span> <span class="express">Express</span></span></li>
-</ol>
-</body>
-```
 
 # Exercise: Pseudo-class selector
 
