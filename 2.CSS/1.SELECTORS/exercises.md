@@ -16,14 +16,20 @@ Here is the result you should try to reach (or as close as possible).
 **Content in the editor**
 
 ```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
 <body>
-<h2>Brands</h2>
-<ol>  
-<li><span class="toyota">Toyota</span></li>
-<li>FedEx Express</li>
-<li><span>facebook</span></li>
-</ol>
+    <h2>Brands</h2>
+    <ol>  
+    <li><span class="toyota">Toyota</span></li>
+    <li>FedEx Express</li>
+    <li><span>facebook</span></li>
+    </ol>
 </body>
+</html>
 ```
 
 
