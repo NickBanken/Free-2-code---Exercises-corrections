@@ -26,6 +26,7 @@
         animation-delay: 0s, 5s, 7s, 7.5s, 9.5s, 12s;
         animation-duration: 5s, 2s, 0.5s, 2s, 2.5s, 5s;
         animation-timing-function: linear;
+		animation-fill-mode: forwards;
       }
 
       @keyframes step1 {
@@ -54,11 +55,12 @@
         from {
           left: 440px;
           top: 100px;
+		  transform:rotate(0deg);
         }
         to {
           left: 220px;
           top: 100px;
-          rotate: 45deg;
+          transform: rotate(45deg);
         }
       }
 
@@ -66,12 +68,12 @@
         from {
           left: 220px;
           top: 100px;
-          rotate: 45deg;
+          transform:rotate(45deg);
         }
         to {
           left: 220px;
           top: 100px;
-          rotate: 45deg;
+          transform:rotate(45deg);
         }
       }
 
@@ -79,12 +81,12 @@
         from {
           left: 220px;
           top: 100px;
-          rotate: 45deg;
+          transform:rotate(45deg);
         }
         to {
           left: 15px;
           top: 100px;
-          rotate: unset;
+          transform:rotate(0deg);
           border: 1px blue dashed;
         }
       }
@@ -96,8 +98,8 @@
           border: 1px blue dashed;
         }
         to {
-          left: 350px;
-          top: 200px;
+          left: 70%;
+          top: 70%;
           border: none;
           background-image: radial-gradient(#fbda61, #f76b1c);
           border-radius: 100%;
